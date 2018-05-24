@@ -18,8 +18,6 @@ This project is under making and will adapt machine learning to stock market dat
 * Try several models, perhaps neural network?
 * Choose best result
 
-
-![Project Image](http://scikit-learn.org/stable/_static/ml_map.png)
 #### Technologies
 
 Not decided yet, but looking at these right now
