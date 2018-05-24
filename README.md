@@ -57,6 +57,10 @@ how the thinking process goes.
 
 ---
 
+## Articles
+
+https://mapr.com/blog/tensorflow-mxnet-caffe-h2o-which-ml-best/
+
 ## License
 
 MIT License
