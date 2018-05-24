@@ -61,7 +61,7 @@ how the thinking process goes.
 
 MIT License
 
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) [2018] [Simon Thelin]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -87,6 +87,6 @@ SOFTWARE.
 
 ## Author Info
 
-- Website - [James Q Quick](https://jamesqquick.com)
+* Simon Thelin 
 
 [Back To The Top](#read-me-template)
