@@ -87,6 +87,6 @@ SOFTWARE.
 
 ## Author Info
 
-* Simon Thelin 
+* [Simon Thelin](https://www.linkedin.com/in/simon-thelin-3ba96986/)
 
 [Back To The Top](#read-me-template)
