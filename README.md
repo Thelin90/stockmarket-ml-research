@@ -1,12 +1,3 @@
-# Read Me Template
-
-This project will analyze data from http://www.usfundamentals.com with the purpose to try to predict
-stock prices with the help of machine learning. This is an exciting area and a fun problem to solve. Let's get started!
-
-> This is a ReadMe template to help save you time and effort.
-
----
-
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
 
@@ -20,18 +11,25 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-A machine learning project can be categories in several steps. I will try to point the main things out below
-how the thinking process goes.
+This project is under making and will adapt machine learning to stock market data. Right now several technologies are being evaluated.
 
+* How to clean and transform the datasets
+* Explicitly what features should be used
+* Try several models, perhaps neural network?
+* Choose best result
 
 
 ![Project Image](http://scikit-learn.org/stable/_static/ml_map.png)
 #### Technologies
 
+Not decided yet, but looking at these right now
+
 - Python
 - Scikit-learn
 - Numpy
 - Matplotlib
+- PySpark, sparklearn
+- Tensorflow?
 
 [Back To The Top](#read-me-template)
 
@@ -41,12 +39,9 @@ how the thinking process goes.
 
 #### Installation
 
-
-
 #### API Reference
 
 ```html
-    <p>dummy code</p>
 ```
 [Back To The Top](#read-me-template)
 
@@ -58,6 +53,7 @@ how the thinking process goes.
 ---
 
 ## Articles
+Interesting articles within the topic
 
 https://mapr.com/blog/tensorflow-mxnet-caffe-h2o-which-ml-best/
 
