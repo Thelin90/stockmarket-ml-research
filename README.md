@@ -20,14 +20,10 @@ This project is under making and will adapt machine learning to stock market dat
 
 #### Technologies
 
-Not decided yet, but looking at these right now
+Main language: Python
 
-- Python
-- Scikit-learn
-- Numpy
-- Matplotlib
-- PySpark, sparklearn
-- Tensorflow?
+- ETL process will be done in PySpark
+- ML will be done in either Scikit-learn or spark-learn
 
 [Back To The Top](#read-me-template)
 
@@ -54,6 +50,7 @@ Not decided yet, but looking at these right now
 Interesting articles within the topic
 
 https://mapr.com/blog/tensorflow-mxnet-caffe-h2o-which-ml-best/
+https://databricks.com/blog/2016/01/25/deep-learning-with-apache-spark-and-tensorflow.html
 
 ## License
 

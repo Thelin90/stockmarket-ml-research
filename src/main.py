@@ -1,14 +1,12 @@
-#
-# @author Simon Thelin
-# @version 0.0.1
-# @date 2018-05-06
-#
-# Main file to run the application
+#!/usr/bin/env python
 
+from src.data.ETL.etl import Etl
 
 
 def main():
-    print("hej")
+    etl1 = Etl("hej")
+
+    etl1.extract()
 
 
 if __name__ == "__main__":
