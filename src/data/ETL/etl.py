@@ -1,5 +1,7 @@
 #!/usr/bin/env python
-
+from iexfinance import get_historical_data
+from datetime import datetime
+import matplotlib.pyplot as plt
 
 class Etl:
     """
@@ -15,14 +17,21 @@ class Etl:
         Extract function to extract data and create a table to be used within machine learning
         :return:
         """
-        print("jek")
+
+        start = datetime(2017, 2, 9)
+        end = datetime(2017, 5, 24)
+
+        self.df = get_historical_data("AAPL", start=start, end=end, output_format='pandas')
+        self.df.head()
+
+        return self.df
 
     def transform(self):
         """
 
         :return:
         """
-        print("jek")
+        return self.df
 
     def load(self):
         """
