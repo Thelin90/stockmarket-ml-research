@@ -23,6 +23,7 @@ This project is under making and will adapt machine learning to stock market dat
 Main language: Python
 
 - ETL process will be done in PySpark
+  - API https://github.com/addisonlynch/iexfinance
 - ML will be done in either Scikit-learn or spark-learn
 
 [Back To The Top](#read-me-template)
